@@ -1,4 +1,4 @@
-### Hi there 👋
+![Metrics](https://metrics.lecoq.io/shbach?template=classic&isocalendar=1&isocalendar.duration=half-year&config.timezone=America%2FLos_Angeles)
 
 <!--
 **shbach/shbach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
